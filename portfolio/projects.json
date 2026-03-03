@@ -1,0 +1,631 @@
+﻿[
+    {
+        "name":  "10-Caesar Encode",
+        "path":  "Beginner/10-Caesar Encode",
+        "track":  "Beginner",
+        "kind":  "CLI App",
+        "tags":  [
+
+                 ],
+        "run":  "cd \"Beginner\\10-Caesar Encode\" \u0026\u0026 py main.py",
+        "webRunnable":  true,
+        "webReason":  "",
+        "webPackages":  [
+
+                        ],
+        "bundleCount":  1,
+        "runtimeFile":  "runtime/Beginner10-Caesar-Encode-2.json"
+    },
+    {
+        "name":  "11-Blind Auction Project",
+        "path":  "Beginner/11-Blind Auction Project",
+        "track":  "Beginner",
+        "kind":  "CLI App",
+        "tags":  [
+
+                 ],
+        "run":  "cd \"Beginner\\11-Blind Auction Project\" \u0026\u0026 py main.py",
+        "webRunnable":  true,
+        "webReason":  "",
+        "webPackages":  [
+
+                        ],
+        "bundleCount":  0,
+        "runtimeFile":  "runtime/Beginner11-Blind-Auction-Project-3.json"
+    },
+    {
+        "name":  "12-Is leap year",
+        "path":  "Beginner/12-Is leap year",
+        "track":  "Beginner",
+        "kind":  "CLI App",
+        "tags":  [
+
+                 ],
+        "run":  "cd \"Beginner\\12-Is leap year\" \u0026\u0026 py main.py",
+        "webRunnable":  true,
+        "webReason":  "",
+        "webPackages":  [
+
+                        ],
+        "bundleCount":  0,
+        "runtimeFile":  "runtime/Beginner12-Is-leap-year-4.json"
+    },
+    {
+        "name":  "13-Calculator Project",
+        "path":  "Beginner/13-Calculator Project",
+        "track":  "Beginner",
+        "kind":  "CLI App",
+        "tags":  [
+
+                 ],
+        "run":  "cd \"Beginner\\13-Calculator Project\" \u0026\u0026 py main.py",
+        "webRunnable":  true,
+        "webReason":  "",
+        "webPackages":  [
+
+                        ],
+        "bundleCount":  0,
+        "runtimeFile":  "runtime/Beginner13-Calculator-Project-5.json"
+    },
+    {
+        "name":  "14-Blackjack Project",
+        "path":  "Beginner/14-Blackjack Project",
+        "track":  "Beginner",
+        "kind":  "Game",
+        "tags":  [
+                     "random"
+                 ],
+        "run":  "cd \"Beginner\\14-Blackjack Project\" \u0026\u0026 py main.py",
+        "webRunnable":  true,
+        "webReason":  "",
+        "webPackages":  [
+
+                        ],
+        "bundleCount":  0,
+        "runtimeFile":  "runtime/Beginner14-Blackjack-Project-6.json"
+    },
+    {
+        "name":  "15-Number Guessing",
+        "path":  "Beginner/15-Number Guessing",
+        "track":  "Beginner",
+        "kind":  "CLI App",
+        "tags":  [
+                     "random",
+                     "time"
+                 ],
+        "run":  "cd \"Beginner\\15-Number Guessing\" \u0026\u0026 py main.py",
+        "webRunnable":  true,
+        "webReason":  "",
+        "webPackages":  [
+
+                        ],
+        "bundleCount":  0,
+        "runtimeFile":  "runtime/Beginner15-Number-Guessing-7.json"
+    },
+    {
+        "name":  "16-Higher or Lower Project",
+        "path":  "Beginner/16-Higher or Lower Project",
+        "track":  "Beginner",
+        "kind":  "CLI App",
+        "tags":  [
+                     "random",
+                     "time"
+                 ],
+        "run":  "cd \"Beginner\\16-Higher or Lower Project\" \u0026\u0026 py main.py",
+        "webRunnable":  true,
+        "webReason":  "",
+        "webPackages":  [
+
+                        ],
+        "bundleCount":  0,
+        "runtimeFile":  "runtime/Beginner16-Higher-or-Lower-Project-8.json"
+    },
+    {
+        "name":  "17-Coffee Machine Project",
+        "path":  "Beginner/17-Coffee Machine Project",
+        "track":  "Beginner",
+        "kind":  "CLI App",
+        "tags":  [
+
+                 ],
+        "run":  "cd \"Beginner\\17-Coffee Machine Project\" \u0026\u0026 py main.py",
+        "webRunnable":  true,
+        "webReason":  "",
+        "webPackages":  [
+
+                        ],
+        "bundleCount":  0,
+        "runtimeFile":  "runtime/Beginner17-Coffee-Machine-Project-9.json"
+    },
+    {
+        "name":  "1-Tip Calculator",
+        "path":  "Beginner/1-Tip Calculator",
+        "track":  "Beginner",
+        "kind":  "CLI App",
+        "tags":  [
+
+                 ],
+        "run":  "cd \"Beginner\\1-Tip Calculator\" \u0026\u0026 py main.py",
+        "webRunnable":  true,
+        "webReason":  "",
+        "webPackages":  [
+
+                        ],
+        "bundleCount":  0,
+        "runtimeFile":  "runtime/Beginner1-Tip-Calculator-1.json"
+    },
+    {
+        "name":  "2-Ride this rollercoaster",
+        "path":  "Beginner/2-Ride this rollercoaster",
+        "track":  "Beginner",
+        "kind":  "CLI App",
+        "tags":  [
+
+                 ],
+        "run":  "cd \"Beginner\\2-Ride this rollercoaster\" \u0026\u0026 py main.py",
+        "webRunnable":  true,
+        "webReason":  "",
+        "webPackages":  [
+
+                        ],
+        "bundleCount":  0,
+        "runtimeFile":  "runtime/Beginner2-Ride-this-rollercoaster-10.json"
+    },
+    {
+        "name":  "3-Heads or Tails",
+        "path":  "Beginner/3-Heads or Tails",
+        "track":  "Beginner",
+        "kind":  "CLI App",
+        "tags":  [
+                     "random"
+                 ],
+        "run":  "cd \"Beginner\\3-Heads or Tails\" \u0026\u0026 py main.py",
+        "webRunnable":  true,
+        "webReason":  "",
+        "webPackages":  [
+
+                        ],
+        "bundleCount":  0,
+        "runtimeFile":  "runtime/Beginner3-Heads-or-Tails-11.json"
+    },
+    {
+        "name":  "4-Odd or Even",
+        "path":  "Beginner/4-Odd or Even",
+        "track":  "Beginner",
+        "kind":  "CLI App",
+        "tags":  [
+
+                 ],
+        "run":  "cd \"Beginner\\4-Odd or Even\" \u0026\u0026 py main.py",
+        "webRunnable":  true,
+        "webReason":  "",
+        "webPackages":  [
+
+                        ],
+        "bundleCount":  0,
+        "runtimeFile":  "runtime/Beginner4-Odd-or-Even-12.json"
+    },
+    {
+        "name":  "5-Pizza Man",
+        "path":  "Beginner/5-Pizza Man",
+        "track":  "Beginner",
+        "kind":  "CLI App",
+        "tags":  [
+
+                 ],
+        "run":  "cd \"Beginner\\5-Pizza Man\" \u0026\u0026 py main.py",
+        "webRunnable":  true,
+        "webReason":  "",
+        "webPackages":  [
+
+                        ],
+        "bundleCount":  0,
+        "runtimeFile":  "runtime/Beginner5-Pizza-Man-13.json"
+    },
+    {
+        "name":  "6-Treasure Island",
+        "path":  "Beginner/6-Treasure Island",
+        "track":  "Beginner",
+        "kind":  "CLI App",
+        "tags":  [
+
+                 ],
+        "run":  "cd \"Beginner\\6-Treasure Island\" \u0026\u0026 py main.py",
+        "webRunnable":  true,
+        "webReason":  "",
+        "webPackages":  [
+
+                        ],
+        "bundleCount":  0,
+        "runtimeFile":  "runtime/Beginner6-Treasure-Island-14.json"
+    },
+    {
+        "name":  "7-Rock Paper Scissors",
+        "path":  "Beginner/7-Rock Paper Scissors",
+        "track":  "Beginner",
+        "kind":  "CLI App",
+        "tags":  [
+                     "random"
+                 ],
+        "run":  "cd \"Beginner\\7-Rock Paper Scissors\" \u0026\u0026 py main.py",
+        "webRunnable":  true,
+        "webReason":  "",
+        "webPackages":  [
+
+                        ],
+        "bundleCount":  0,
+        "runtimeFile":  "runtime/Beginner7-Rock-Paper-Scissors-15.json"
+    },
+    {
+        "name":  "8-Password Generator Project",
+        "path":  "Beginner/8-Password Generator Project",
+        "track":  "Beginner",
+        "kind":  "CLI App",
+        "tags":  [
+                     "random"
+                 ],
+        "run":  "cd \"Beginner\\8-Password Generator Project\" \u0026\u0026 py main.py",
+        "webRunnable":  true,
+        "webReason":  "",
+        "webPackages":  [
+
+                        ],
+        "bundleCount":  0,
+        "runtimeFile":  "runtime/Beginner8-Password-Generator-Project-16.json"
+    },
+    {
+        "name":  "9-Hangman",
+        "path":  "Beginner/9-Hangman",
+        "track":  "Beginner",
+        "kind":  "Game",
+        "tags":  [
+                     "random"
+                 ],
+        "run":  "cd \"Beginner\\9-Hangman\" \u0026\u0026 py main.py",
+        "webRunnable":  true,
+        "webReason":  "",
+        "webPackages":  [
+
+                        ],
+        "bundleCount":  0,
+        "runtimeFile":  "runtime/Beginner9-Hangman-17.json"
+    },
+    {
+        "name":  "17-Coffee Machine2",
+        "path":  "Intermediate/17-Coffee Machine2",
+        "track":  "Intermediate",
+        "kind":  "CLI App",
+        "tags":  [
+
+                 ],
+        "run":  "cd \"Intermediate\\17-Coffee Machine2\" \u0026\u0026 py main.py",
+        "webRunnable":  true,
+        "webReason":  "",
+        "webPackages":  [
+
+                        ],
+        "bundleCount":  0,
+        "runtimeFile":  "runtime/Intermediate17-Coffee-Machine2-18.json"
+    },
+    {
+        "name":  "18-Quiz Game",
+        "path":  "Intermediate/18-Quiz Game",
+        "track":  "Intermediate",
+        "kind":  "Game",
+        "tags":  [
+
+                 ],
+        "run":  "cd \"Intermediate\\18-Quiz Game\" \u0026\u0026 py main.py",
+        "webRunnable":  true,
+        "webReason":  "",
+        "webPackages":  [
+
+                        ],
+        "bundleCount":  0,
+        "runtimeFile":  "runtime/Intermediate18-Quiz-Game-19.json"
+    },
+    {
+        "name":  "19-Hurst Painting",
+        "path":  "Intermediate/19-Hurst Painting",
+        "track":  "Intermediate",
+        "kind":  "Game / Visualization",
+        "tags":  [
+                     "turtle",
+                     "random"
+                 ],
+        "run":  "cd \"Intermediate\\19-Hurst Painting\" \u0026\u0026 py main.py",
+        "webRunnable":  false,
+        "webReason":  "Uses desktop/runtime module: turtle",
+        "webPackages":  [
+
+                        ],
+        "bundleCount":  0,
+        "runtimeFile":  null
+    },
+    {
+        "name":  "21-Snake Game",
+        "path":  "Intermediate/21-Snake Game",
+        "track":  "Intermediate",
+        "kind":  "Game / Visualization",
+        "tags":  [
+                     "turtle",
+                     "random",
+                     "time"
+                 ],
+        "run":  "cd \"Intermediate\\21-Snake Game\" \u0026\u0026 py main.py",
+        "webRunnable":  false,
+        "webReason":  "Uses desktop/runtime module: turtle",
+        "webPackages":  [
+
+                        ],
+        "bundleCount":  0,
+        "runtimeFile":  null
+    },
+    {
+        "name":  "22-Pong",
+        "path":  "Intermediate/22-Pong",
+        "track":  "Intermediate",
+        "kind":  "Game / Visualization",
+        "tags":  [
+                     "turtle",
+                     "time"
+                 ],
+        "run":  "cd \"Intermediate\\22-Pong\" \u0026\u0026 py main.py",
+        "webRunnable":  false,
+        "webReason":  "Uses desktop/runtime module: turtle",
+        "webPackages":  [
+
+                        ],
+        "bundleCount":  0,
+        "runtimeFile":  null
+    },
+    {
+        "name":  "23-Turtle Crossing",
+        "path":  "Intermediate/23-Turtle Crossing",
+        "track":  "Intermediate",
+        "kind":  "Game / Visualization",
+        "tags":  [
+                     "turtle",
+                     "random",
+                     "time"
+                 ],
+        "run":  "cd \"Intermediate\\23-Turtle Crossing\" \u0026\u0026 py main.py",
+        "webRunnable":  false,
+        "webReason":  "Uses desktop/runtime module: turtle",
+        "webPackages":  [
+
+                        ],
+        "bundleCount":  0,
+        "runtimeFile":  null
+    },
+    {
+        "name":  "24-Mail Merge Project",
+        "path":  "Intermediate/24-Mail Merge Project",
+        "track":  "Intermediate",
+        "kind":  "Automation",
+        "tags":  [
+
+                 ],
+        "run":  "cd \"Intermediate\\24-Mail Merge Project\" \u0026\u0026 py main.py",
+        "webRunnable":  true,
+        "webReason":  "",
+        "webPackages":  [
+
+                        ],
+        "bundleCount":  0,
+        "runtimeFile":  "runtime/Intermediate24-Mail-Merge-Project-26.json"
+    },
+    {
+        "name":  "25-Squirrel Count",
+        "path":  "Intermediate/25-Squirrel Count",
+        "track":  "Intermediate",
+        "kind":  "Data Project",
+        "tags":  [
+                     "pandas"
+                 ],
+        "run":  "cd \"Intermediate\\25-Squirrel Count\" \u0026\u0026 py main.py",
+        "webRunnable":  true,
+        "webReason":  "",
+        "webPackages":  [
+                            "pandas"
+                        ],
+        "bundleCount":  0,
+        "runtimeFile":  "runtime/Intermediate25-Squirrel-Count-27.json"
+    },
+    {
+        "name":  "26-US States Game",
+        "path":  "Intermediate/26-US States Game",
+        "track":  "Intermediate",
+        "kind":  "Game / Visualization",
+        "tags":  [
+                     "pandas",
+                     "turtle"
+                 ],
+        "run":  "cd \"Intermediate\\26-US States Game\" \u0026\u0026 py main.py",
+        "webRunnable":  false,
+        "webReason":  "Uses desktop/runtime module: turtle",
+        "webPackages":  [
+                            "pandas"
+                        ],
+        "bundleCount":  0,
+        "runtimeFile":  null
+    },
+    {
+        "name":  "27- NATO Alphabet",
+        "path":  "Intermediate/27- NATO Alphabet",
+        "track":  "Intermediate",
+        "kind":  "Data Project",
+        "tags":  [
+                     "pandas"
+                 ],
+        "run":  "cd \"Intermediate\\27- NATO Alphabet\" \u0026\u0026 py main.py",
+        "webRunnable":  true,
+        "webReason":  "",
+        "webPackages":  [
+                            "pandas"
+                        ],
+        "bundleCount":  0,
+        "runtimeFile":  "runtime/Intermediate27--NATO-Alphabet-29.json"
+    },
+    {
+        "name":  "28-Mile and KM Converter GUI",
+        "path":  "Intermediate/28-Mile and KM Converter GUI",
+        "track":  "Intermediate",
+        "kind":  "Desktop GUI",
+        "tags":  [
+                     "tkinter"
+                 ],
+        "run":  "cd \"Intermediate\\28-Mile and KM Converter GUI\" \u0026\u0026 py main.py",
+        "webRunnable":  false,
+        "webReason":  "Uses desktop/runtime module: tkinter",
+        "webPackages":  [
+
+                        ],
+        "bundleCount":  0,
+        "runtimeFile":  null
+    },
+    {
+        "name":  "29-Pomodoro",
+        "path":  "Intermediate/29-Pomodoro",
+        "track":  "Intermediate",
+        "kind":  "Desktop GUI",
+        "tags":  [
+                     "tkinter",
+                     "math"
+                 ],
+        "run":  "cd \"Intermediate\\29-Pomodoro\" \u0026\u0026 py main.py",
+        "webRunnable":  false,
+        "webReason":  "Uses desktop/runtime module: tkinter",
+        "webPackages":  [
+
+                        ],
+        "bundleCount":  0,
+        "runtimeFile":  null
+    },
+    {
+        "name":  "30-Password Manager",
+        "path":  "Intermediate/30-Password Manager",
+        "track":  "Intermediate",
+        "kind":  "Desktop GUI",
+        "tags":  [
+                     "tkinter",
+                     "json",
+                     "random",
+                     "pyperclip"
+                 ],
+        "run":  "cd \"Intermediate\\30-Password Manager\" \u0026\u0026 py main.py",
+        "webRunnable":  false,
+        "webReason":  "Uses desktop/runtime module: tkinter; Uses desktop/runtime module: pyperclip",
+        "webPackages":  [
+
+                        ],
+        "bundleCount":  0,
+        "runtimeFile":  null
+    },
+    {
+        "name":  "31-Flash Card Project",
+        "path":  "Intermediate/31-Flash Card Project",
+        "track":  "Intermediate",
+        "kind":  "Desktop GUI",
+        "tags":  [
+                     "tkinter",
+                     "pandas",
+                     "random"
+                 ],
+        "run":  "cd \"Intermediate\\31-Flash Card Project\" \u0026\u0026 py main.py",
+        "webRunnable":  false,
+        "webReason":  "Uses desktop/runtime module: tkinter",
+        "webPackages":  [
+                            "pandas"
+                        ],
+        "bundleCount":  0,
+        "runtimeFile":  null
+    },
+    {
+        "name":  "Quiz",
+        "path":  "Intermediate/18-Quiz Game/Quiz",
+        "track":  "Intermediate",
+        "kind":  "CLI App",
+        "tags":  [
+
+                 ],
+        "run":  "cd \"Intermediate\\18-Quiz Game\\Quiz\" \u0026\u0026 py main.py",
+        "webRunnable":  true,
+        "webReason":  "",
+        "webPackages":  [
+
+                        ],
+        "bundleCount":  0,
+        "runtimeFile":  "runtime/Intermediate18-Quiz-GameQuiz-20.json"
+    },
+    {
+        "name":  "race",
+        "path":  "Intermediate/20-Turtle Race/race",
+        "track":  "Intermediate",
+        "kind":  "Game / Visualization",
+        "tags":  [
+                     "turtle",
+                     "random"
+                 ],
+        "run":  "cd \"Intermediate\\20-Turtle Race\\race\" \u0026\u0026 py main.py",
+        "webRunnable":  false,
+        "webReason":  "Uses desktop/runtime module: turtle",
+        "webPackages":  [
+
+                        ],
+        "bundleCount":  0,
+        "runtimeFile":  null
+    },
+    {
+        "name":  "32-Send_email",
+        "path":  "Intermediate+/32-Send_email",
+        "track":  "Intermediate+",
+        "kind":  "Automation",
+        "tags":  [
+                     "smtplib",
+                     "random"
+                 ],
+        "run":  "cd \"Intermediate+\\32-Send_email\" \u0026\u0026 py main.py",
+        "webRunnable":  false,
+        "webReason":  "Uses desktop/runtime module: smtplib",
+        "webPackages":  [
+
+                        ],
+        "bundleCount":  0,
+        "runtimeFile":  null
+    },
+    {
+        "name":  "Growth Calc",
+        "path":  "Personal/Growth Calc",
+        "track":  "Personal",
+        "kind":  "CLI App",
+        "tags":  [
+
+                 ],
+        "run":  "cd \"Personal\\Growth Calc\" \u0026\u0026 py main.py",
+        "webRunnable":  true,
+        "webReason":  "",
+        "webPackages":  [
+
+                        ],
+        "bundleCount":  0,
+        "runtimeFile":  "runtime/PersonalGrowth-Calc-35.json"
+    },
+    {
+        "name":  "Penny times penny",
+        "path":  "Personal/Penny times penny",
+        "track":  "Personal",
+        "kind":  "CLI App",
+        "tags":  [
+
+                 ],
+        "run":  "cd \"Personal\\Penny times penny\" \u0026\u0026 py main.py",
+        "webRunnable":  true,
+        "webReason":  "",
+        "webPackages":  [
+
+                        ],
+        "bundleCount":  0,
+        "runtimeFile":  "runtime/PersonalPenny-times-penny-36.json"
+    }
+]

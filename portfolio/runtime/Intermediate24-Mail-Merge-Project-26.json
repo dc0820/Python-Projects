@@ -1,0 +1,50 @@
+﻿[
+    {
+        "path":  "main.py",
+        "code":  "PLACEHOLDER = \"[name]\"\n\n\n# Read template once\nwith open(\"./Input/Letters/starting_letter.txt\") as StartingLetter:\n    letter_contents = StartingLetter.read()\n\n# Read names and write letters\nwith open(\"./Input/Names/invited_names.txt\") as InvitedNames:\n    for name in InvitedNames:\n        stripped_name = name.strip()\n        personalized = letter_contents.replace(PLACEHOLDER, stripped_name)\n        with open(f\"./Output/ReadyToSend/letter_for_{stripped_name}.txt\", \"w\") as SendLetter:\n            SendLetter.write(personalized)\n"
+    },
+    {
+        "path":  "Input/Letters/starting_letter.txt",
+        "code":  "Dear [name],\n\nYou are invited to my birthday this Saturday.\n\nHope you can make it!\n\nDaniel\n"
+    },
+    {
+        "path":  "Input/Names/invited_names.txt",
+        "code":  "Aang\nZuko\nAppa\nKatara\nSokka\nMomo\nUncle Iroh\nToph"
+    },
+    {
+        "path":  "Output/ReadyToSend/example.txt",
+        "code":  "Dear Aang,\n\nYou are invited to my birthday this Saturday.\n\nHope you can make it!\n\nDaniel\n"
+    },
+    {
+        "path":  "Output/ReadyToSend/letter_for_Aang.txt",
+        "code":  "Dear Aang,\r\n\r\nYou are invited to my birthday this Saturday.\r\n\r\nHope you can make it!\r\n\r\nDaniel\r\n"
+    },
+    {
+        "path":  "Output/ReadyToSend/letter_for_Appa.txt",
+        "code":  "Dear Appa,\r\n\r\nYou are invited to my birthday this Saturday.\r\n\r\nHope you can make it!\r\n\r\nDaniel\r\n"
+    },
+    {
+        "path":  "Output/ReadyToSend/letter_for_Katara.txt",
+        "code":  "Dear Katara,\r\n\r\nYou are invited to my birthday this Saturday.\r\n\r\nHope you can make it!\r\n\r\nDaniel\r\n"
+    },
+    {
+        "path":  "Output/ReadyToSend/letter_for_Momo.txt",
+        "code":  "Dear Momo,\r\n\r\nYou are invited to my birthday this Saturday.\r\n\r\nHope you can make it!\r\n\r\nDaniel\r\n"
+    },
+    {
+        "path":  "Output/ReadyToSend/letter_for_Sokka.txt",
+        "code":  "Dear Sokka,\r\n\r\nYou are invited to my birthday this Saturday.\r\n\r\nHope you can make it!\r\n\r\nDaniel\r\n"
+    },
+    {
+        "path":  "Output/ReadyToSend/letter_for_Toph.txt",
+        "code":  "Dear Toph,\r\n\r\nYou are invited to my birthday this Saturday.\r\n\r\nHope you can make it!\r\n\r\nDaniel\r\n"
+    },
+    {
+        "path":  "Output/ReadyToSend/letter_for_Uncle Iroh.txt",
+        "code":  "Dear Uncle Iroh,\r\n\r\nYou are invited to my birthday this Saturday.\r\n\r\nHope you can make it!\r\n\r\nDaniel\r\n"
+    },
+    {
+        "path":  "Output/ReadyToSend/letter_for_Zuko.txt",
+        "code":  "Dear Zuko,\r\n\r\nYou are invited to my birthday this Saturday.\r\n\r\nHope you can make it!\r\n\r\nDaniel\r\n"
+    }
+]

@@ -1,0 +1,4 @@
+﻿{
+    "path":  "main.py",
+    "code":  "import random\r\n\r\n#heads or tails\r\n\r\n#user\r\n\r\ncoin = random.randint(0,1)\r\n\r\nif coin == 0:\r\n    print(\"Heads\")\r\nelse:\r\n    print(\"Tails\")\r\n\r\n\r\n\r\n"
+}

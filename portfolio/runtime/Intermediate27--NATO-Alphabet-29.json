@@ -1,0 +1,10 @@
+﻿[
+    {
+        "path":  "main.py",
+        "code":  "import pandas\n\nnato_data = pandas.read_csv(\"nato_phonetic_alphabet.csv\")\n\ndict_nato = {row.letter : row.code for (index, row) in nato_data.iterrows()}\ndef generate_phonetic():\n    word = input(\"Enter a word: \").upper()\n    try:\n        phonetic = [dict_nato[letter] for letter in word]\n\n    except KeyError:\n        print(\"Sorry, only letters in the alphabet please.\")\n        generate_phonetic()\n\n    else:\n        print(phonetic)\n\ngenerate_phonetic()\n\n\n"
+    },
+    {
+        "path":  "nato_phonetic_alphabet.csv",
+        "code":  "letter,code\nA,Alfa\nB,Bravo\nC,Charlie\nD,Delta\nE,Echo\nF,Foxtrot\nG,Golf\nH,Hotel\nI,India\nJ,Juliet\nK,Kilo\nL,Lima\nM,Mike\nN,November\nO,Oscar\nP,Papa\nQ,Quebec\nR,Romeo\nS,Sierra\nT,Tango\nU,Uniform\nV,Victor\nW,Whiskey\nX,X-ray\nY,Yankee\nZ,Zulu"
+    }
+]

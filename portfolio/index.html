@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Daniel's Python Portfolio</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="hero">
+    <p class="eyebrow">Python Developer Portfolio</p>
+    <h1>Daniel's Project Showcase</h1>
+    <p class="sub">Click a project and run compatible Python apps directly in the browser.</p>
+  </header>
+
+  <main>
+    <section class="controls">
+      <input id="search" type="search" placeholder="Search projects..." aria-label="Search projects" />
+      <select id="trackFilter" aria-label="Filter by track">
+        <option value="all">All tracks</option>
+      </select>
+      <p id="count"></p>
+    </section>
+
+    <section id="grid" class="grid" aria-live="polite"></section>
+
+    <section class="runner" id="runner">
+      <div class="runner-head">
+        <h3 id="runnerTitle">Web Runner</h3>
+        <button id="clearOutput" type="button">Clear</button>
+      </div>
+      <pre id="runnerOutput">Pick a runnable project and click Run in Browser.</pre>
+    </section>
+  </main>
+
+  <template id="cardTemplate">
+    <article class="card">
+      <div class="card-top">
+        <p class="track"></p>
+        <p class="kind"></p>
+      </div>
+      <h2 class="name"></h2>
+      <p class="path"></p>
+      <div class="tags"></div>
+      <p class="note"></p>
+      <div class="actions">
+        <button class="run-web" type="button">Run in Browser</button>
+      </div>
+      <pre class="run"></pre>
+    </article>
+  </template>
+
+  <script src="app.js" defer></script>
+</body>
+</html>

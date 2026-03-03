@@ -1,0 +1,4 @@
+﻿{
+    "path":  "main.py",
+    "code":  "#Growth multiplier 1.0125 ** how many levels\r\nGROWTH = 1.0125\r\nMAX_LEVEL = 120\r\n\r\n\r\ndef multiplier_calc(*args, **kwargs):\r\n    multiplier = float(GROWTH ** (MAX_LEVEL - args[0]))\r\n    damage = round(float(kwargs[\"dmg\"]  * multiplier),2)\r\n    health = round(float(kwargs[\"hp\"] * multiplier),2)\r\n\r\n    print(f\"{damage}K DMG, {health}K HP\")\r\n\r\n\"\"\"(insert level, dmg= insert dmg, hp = insert hp\"\"\"\r\nmultiplier_calc(101, dmg=244.34, hp=488.67)"
+}

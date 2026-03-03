@@ -1,0 +1,4 @@
+﻿{
+    "path":  "main.py",
+    "code":  "print(\"Welcome to the tip calculator!\")\nbill = float(input(\"What was the total bill? $\"))\ntip = int(input(\"What percentage tip would you like to give? (10%, 12%, 15%) \"))\npeople = int(input(\"How many people to split the bill? \"))\n\ntotal_bill = bill / people * (1 + tip / 100)\n\nprint(f\"If each person split per meal and added a {tip}% to it, it will be ${total_bill:.2f}\")\n\n"
+}

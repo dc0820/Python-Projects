@@ -1,0 +1,4 @@
+﻿{
+    "path":  "main.py",
+    "code":  "def pennytimespenny(days):\r\n    amount = .01\r\n    for day in range(1, days):\r\n        amount = amount * 2\r\n\r\n    return amount\r\n\r\n\r\nresult = pennytimespenny(30)\r\nprint(f\"Total: ${result:,.2f}\")\r\n\r\n\r\n\r\n\r\n"
+}

@@ -1,0 +1,10 @@
+﻿[
+    {
+        "path":  "art.py",
+        "code":  "logo = r\u0027\u0027\u0027\n                         ___________\n                         \\         /\n                          )_______(\n                          |\"\"\"\"\"\"\"|_.-._,.---------.,_.-._\n                          |       | | |               | | \u0027\u0027-.\n                          |       |_| |_             _| |_..-\u0027\n                          |_______| \u0027-\u0027 `\u0027---------\u0027` \u0027-\u0027\n                          )\"\"\"\"\"\"\"(\n                         /_________\\\\\n                       .-------------.\n                      /_______________\\\\\n\u0027\u0027\u0027"
+    },
+    {
+        "path":  "main.py",
+        "code":  "# TODO-1: Ask the user for input\nfrom art import logo\n\nprint(logo)\n\n\ndef highest_bidder(bidding_record):\n    highest_bid = 0\n    winner = \"\"\n\n    for bidder in bidding_record:\n        bid_amount = bidding_record[bidder]\n        if bid_amount \u003e highest_bid:\n            highest_bid = bid_amount\n            winner = bidder\n    print(f\"The winner is {winner} with ${highest_bid}\")\n\n# TODO-2: Save data into dictionary {name: price}\n# TODO-3: Whether if new bids need to be added\ncontinue_bidding = True\nbids = {}\n\nwhile continue_bidding:\n    name = input(\"What is your name?: \")\n    price = int(input(\"What\u0027s your bid?: $\"))\n    bids[name] = price\n    other_bidders = input(\"Are there any other bidders? Type \u0027yes\u0027 or \u0027no\u0027.\\n\")\n    if other_bidders == \"no\":\n        continue_bidding = False\n        highest_bidder(bids)\n    elif other_bidders == \"yes\":\n        print(\"\\n\" * 20)\n\n# TODO-4: Compare bids in dictionary\n"
+    }
+]

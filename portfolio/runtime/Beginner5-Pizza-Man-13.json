@@ -1,0 +1,4 @@
+﻿{
+    "path":  "main.py",
+    "code":  "print(\"Welcome to Python Pizza Deliveries!\")\nsize = input(\"What size pizza do you want? S, M or L: \").lower()\npepperoni = input(\"Do you want pepperoni on your pizza? Y or N: \").lower()\nextra_cheese = input(\"Do you want extra cheese? Y or N: \").lower()\n\n#small = 15, medium = 20, large = 25\n#pepperoni = +2 , medium \u0026 large = +3\n#extra cheese = +1\n\nbill = 0\n\n\nif size == \"s\":\n    bill += 15\nelif size == \"m\":\n    bill += 20\nelif size == \"l\":\n    bill += 25\nelse:\n    print(\"Please pick a valid size. \")\n\nif pepperoni == \"y\":\n    if size == \"s\":\n        bill += 2\n    else:\n        bill += 3\n\nif extra_cheese == \"y\":\n    bill += 1\n\nprint(f\"Your final bill is: ${bill}.\")\n\n\n\n\n"
+}

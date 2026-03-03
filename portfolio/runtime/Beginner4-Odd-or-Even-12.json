@@ -1,0 +1,4 @@
+﻿{
+    "path":  "main.py",
+    "code":  "num = int(input(\"Please enter a number to tell if its even or odd: \"))\r\n\r\n\r\nif num % 2 == 0:\r\n    print(\"Your number is even.\")\r\n\r\nelse:\r\n    print(\"Your number is odd.\")\r\n"
+}
